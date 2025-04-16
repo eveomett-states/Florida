@@ -5,7 +5,7 @@ Use of this project is further governed by the terms of the [Creative Commons At
 
 # Florida Shapefile
 
-This shapefile was processed by Professor Ellen Veomett and her student Arbie Hsu using the corresponding jupyter notebook.  As part of the cleaning process, precincts were nested within counties and small rook adjacencies (under 30.5 m) were changed to queen adjacencies.
+This shapefile was processed by Professor Ellen Veomett and her student Arbie Hsu using the corresponding jupyter notebook.  As part of the cleaning process, precincts were nested within counties and small rook adjacencies (under 30.5 m) were changed to queen adjacencies.  Note that this shapefile has 4 holes in it. Given that population was not lost, we believe these holes are not an issue.
 
 # **Sources**
 
